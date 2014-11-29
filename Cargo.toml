@@ -1,0 +1,5 @@
+[package]
+
+name = "gsl-rs"
+version = "0.0.1"
+authors = ["Rickard Kjellin <rickard.kjellin@gmail.com>"]
