@@ -1,5 +1,5 @@
 [package]
 
-name = "gsl-rs"
+name = "gslrs"
 version = "0.0.1"
 authors = ["Rickard Kjellin <rickard.kjellin@gmail.com>"]

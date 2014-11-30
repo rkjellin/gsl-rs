@@ -1,4 +1,5 @@
-#[link(name = "lgsl")]
+#[link(name = "gsl")]
+#[link(name = "gslcblas")]
 extern {
     pub fn gsl_ran_ugaussian_pdf(x: f64) -> f64;
     //double gsl_ran_ugaussian_pdf (const double x);
